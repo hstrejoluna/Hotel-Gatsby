@@ -1,7 +1,7 @@
-mport React from 'react';
+import React from 'react';
 import { graphql } from 'gatsby';
 import Image from 'gatsby-image';
-import { css } from '@emotion/core';
+import { css } from '@emotion/react';
 import Layout from '../components/layout';
 
 export const query = graphql`
